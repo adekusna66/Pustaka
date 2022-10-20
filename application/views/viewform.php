@@ -51,7 +51,7 @@
 				margin-top: 120px;
 			}
 		</style>
-		<title>Form Input</title>
+		<title>Form Inputan</title>
 	</head>
 	<body>
 		<nav class="navbar navbar-expand-lg navbar-light">
